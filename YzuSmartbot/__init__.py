@@ -1,7 +1,7 @@
-import Keypoints_RCNN
-import CalculatingAngles
-import ReadingRPLidar
-import StageEstimation
+import Keypoints_RCNN.py
+import CalculatingAngles.py
+import ReadingRPLidar.py
+import StageEstimation.py
 
 class Environment():
     
