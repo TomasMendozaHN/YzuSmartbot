@@ -1,7 +1,7 @@
-import Keypoints_RCNN.py
-import CalculatingAngles.py
-import ReadingRPLidar.py
-import StageEstimation.py
+from YzuSmartbot import Keypoints_RCNN
+from YzuSmartbot import CalculatingAngles
+from YzuSmartbot import ReadingRPLidar
+from YzuSmartbot import StageEstimation
 
 class Environment():
     
